@@ -1,0 +1,4 @@
+coverage
+test
+babel.config.json
+node_modules
